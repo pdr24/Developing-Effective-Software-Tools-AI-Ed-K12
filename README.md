@@ -7,4 +7,4 @@ __FaunaForest live link:__ https://engaging-computing.github.io/FaunaForest/
 
 __IntoTheRabbitHole live link:__ https://pdr24.github.io/IntoTheRabbitHole/
 
-A copy of my poster can be found in this repository. 
+__Poster:__ https://github.com/pdr24/Developing-Effective-Software-Tools-AI-Ed-K12/blob/main/Designing%20Effective%20Software%20Tools%20for%20K12%20AI%20Ed.pdf
